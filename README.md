@@ -1,19 +1,17 @@
 # BambuStudio_CustomFilaments
-repository with filament profiles for [Bambu Studio](https://bambulab.com/en/download/studio)
 
-## How to import
+Repository with filament profiles for [Bambu Studio](https://bambulab.com/en/download/studio)
 
-1. **Import filament profiles**
-   ![Step 1](Step%201.png)
+## Supported Filament Brands
 
-2. **Select files**
-   ![Step 2](Step%202.png)
+### [KINGROON](KINGROON/)
+Ready-to-import `.bbsflmt` profile bundles for KINGROON filaments.
 
-3. **Change printer settings**
-   ![Step 3](Step%203.png)
+**Available profiles:**
+- ABS Basic
+- PETG Basic, PETG HS, PETG-CF Basic
+- PLA Basic, PLA+, PLA Matte, PLA Pro, PLA Silk
+- TPU 95A
 
-4. **Change project settings**
-   ![Step 4](Step%204.png)
+[📖 See KINGROON README for import instructions](KINGROON/README.md)
 
-## KINGROON
-Original profiles downloaded from: [KINGROON Google Drive](https://drive.google.com/drive/folders/1Mhjo4AZax7hLg0XIYlN9jlGMfXtFdSOA)
