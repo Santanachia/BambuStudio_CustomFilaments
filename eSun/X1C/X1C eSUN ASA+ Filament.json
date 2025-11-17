@@ -1,0 +1,30 @@
+{
+    "fan_max_speed": [
+        "50"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "22"
+    ],
+    "filament_settings_id": [
+        "X1C eSUN ASA+ Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu ABS @BBL X1C",
+    "name": "X1C eSUN ASA+ Filament",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "textured_plate_temp": [
+        "100"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "1.9.0.12"
+}

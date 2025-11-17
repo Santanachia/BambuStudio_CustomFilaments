@@ -1,0 +1,22 @@
+{
+    "fan_max_speed": [
+        "30"
+    ],
+    "fan_min_speed": [
+        "10"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_settings_id": [
+        "P2S eSUN PA Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PA @BBL P2S",
+    "name": "P2S eSUN PA Filament",
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "version": "2.3.0.2"
+}

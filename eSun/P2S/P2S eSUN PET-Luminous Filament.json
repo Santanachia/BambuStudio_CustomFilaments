@@ -1,0 +1,37 @@
+{
+    "fan_max_speed": [
+        "70"
+    ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_max_volumetric_speed": [
+        "18",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "P2S eSUN PET-Luminous Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG HF @BBL P2S 0.4 nozzle",
+    "name": "P2S eSUN PET-Luminous Filament",
+    "nozzle_temperature": [
+        "260",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260",
+        "nil"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "2.3.0.2"
+}

@@ -1,0 +1,30 @@
+{
+    "fan_max_speed": [
+        "20"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_settings_id": [
+        "P1S  eSUN PC Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PC @BBL P1S",
+    "name": "P1S  eSUN PC Filament",
+    "nozzle_temperature": [
+        "290"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "290"
+    ],
+    "textured_plate_temp": [
+        "110"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "110"
+    ],
+    "version": "2.0.0.76"
+}

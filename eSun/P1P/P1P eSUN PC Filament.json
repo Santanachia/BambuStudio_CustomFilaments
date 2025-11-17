@@ -1,0 +1,24 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_settings_id": [
+        "P1P eSUN  PC Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PC @BBL P1P",
+    "name": "P1P eSUN  PC Filament",
+    "nozzle_temperature": [
+        "290"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "290"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "version": "2.0.0.76"
+}

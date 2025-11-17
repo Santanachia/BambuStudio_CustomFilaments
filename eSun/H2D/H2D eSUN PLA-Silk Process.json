@@ -1,0 +1,50 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL H2D",
+    "initial_layer_infill_speed": [
+        "50",
+        "nil",
+        "nil",
+        "nil"
+    ],
+    "inner_wall_speed": [
+        "200",
+        "200",
+        "200",
+        "200"
+    ],
+    "internal_solid_infill_speed": [
+        "200",
+        "200",
+        "200",
+        "200"
+    ],
+    "name": "H2D eSUN PLA-Silk Process",
+    "outer_wall_speed": [
+        "150",
+        "120",
+        "120",
+        "120"
+    ],
+    "print_extruder_id": [
+        "1",
+        "1",
+        "2",
+        "2"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "print_settings_id": "H2D eSUN PLA-Silk Process",
+    "sparse_infill_pattern": "gyroid",
+    "sparse_infill_speed": [
+        "200",
+        "200",
+        "200",
+        "200"
+    ],
+    "version": "2.0.0.87"
+}

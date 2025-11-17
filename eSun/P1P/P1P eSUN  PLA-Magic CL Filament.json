@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "P1P eSUN  PLA-Magic CL Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL P1P",
+    "name": "P1P eSUN  PLA-Magic CL Filament",
+    "version": "1.9.0.21"
+}

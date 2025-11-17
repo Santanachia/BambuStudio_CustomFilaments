@@ -1,0 +1,35 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Balanced Strength @BBL H2D",
+    "inner_wall_speed": [
+        "200",
+        "nil",
+        "nil",
+        "nil"
+    ],
+    "interlocking_beam_layer_count": "1",
+    "interlocking_boundary_avoidance": "1",
+    "interlocking_depth": "1",
+    "name": "H2D eSUN ABS+GF Process",
+    "outer_wall_speed": [
+        "150",
+        "nil",
+        "nil",
+        "nil"
+    ],
+    "print_extruder_id": [
+        "1",
+        "1",
+        "2",
+        "2"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "print_settings_id": "H2D eSUN ABS+GF Process",
+    "sparse_infill_pattern": "gyroid",
+    "version": "2.0.0.83"
+}

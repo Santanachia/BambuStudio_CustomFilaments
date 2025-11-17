@@ -1,0 +1,47 @@
+{
+    "fan_max_speed": [
+        "70"
+    ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_max_volumetric_speed": [
+        "22",
+        "nil"
+    ],
+    "filament_retraction_length": [
+        "nil",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "P2S eSUN PETG+HS Filament"
+    ],
+    "filament_wipe": [
+        "nil",
+        "nil"
+    ],
+    "filament_wipe_distance": [
+        "nil",
+        "nil"
+    ],
+    "filament_z_hop_types": [
+        "nil",
+        "nil"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG HF @BBL P2S 0.4 nozzle",
+    "name": "P2S eSUN PETG+HS Filament",
+    "nozzle_temperature": [
+        "260",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260",
+        "nil"
+    ],
+    "version": "2.3.0.2"
+}

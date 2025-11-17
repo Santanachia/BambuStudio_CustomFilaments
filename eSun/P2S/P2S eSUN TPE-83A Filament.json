@@ -1,0 +1,27 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_max_volumetric_speed": [
+        "3.6",
+        "nil"
+    ],
+    "filament_retraction_length": [
+        "nil",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "P2S eSUN TPE-83A Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU @BBL P2S",
+    "name": "P2S eSUN TPE-83A Filament",
+    "textured_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "45"
+    ],
+    "version": "2.3.0.3"
+}

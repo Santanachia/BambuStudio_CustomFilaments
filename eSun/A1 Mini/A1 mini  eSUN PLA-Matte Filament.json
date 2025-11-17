@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "A1 mini  eSUN PLA-Matte Filament"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA+ @BBL A1M",
+    "name": "A1 mini  eSUN PLA-Matte Filament",
+    "version": "1.7.0.29"
+}

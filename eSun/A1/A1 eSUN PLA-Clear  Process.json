@@ -1,0 +1,28 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL A1",
+    "initial_layer_infill_speed": [
+        "50"
+    ],
+    "inner_wall_speed": [
+        "200"
+    ],
+    "internal_solid_infill_speed": [
+        "200"
+    ],
+    "name": "A1 eSUN PLA-Clear  Process",
+    "outer_wall_speed": [
+        "150"
+    ],
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "A1 eSUN PLA-Clear  Process",
+    "sparse_infill_speed": [
+        "200"
+    ],
+    "version": "1.8.0.13"
+}

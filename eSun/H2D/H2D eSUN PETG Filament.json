@@ -1,0 +1,21 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_settings_id": [
+        "H2D eSUN PETG Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL H2D",
+    "name": "H2D eSUN PETG Filament",
+    "nozzle_temperature": [
+        "260",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260",
+        "nil"
+    ],
+    "version": "2.0.0.83"
+}

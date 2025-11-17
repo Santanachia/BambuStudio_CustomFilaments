@@ -1,0 +1,30 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "1.02",
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "3.6",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2D eSUN TPE-83A Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU @BBL H2D",
+    "name": "H2D eSUN TPE-83A Filament",
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "textured_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "45"
+    ],
+    "version": "2.0.0.87"
+}

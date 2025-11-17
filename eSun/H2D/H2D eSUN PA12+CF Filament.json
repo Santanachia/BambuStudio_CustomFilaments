@@ -1,0 +1,25 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_max_volumetric_speed": [
+        "12",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2D eSUN PA12+CF Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu PA-CF @BBL H2D",
+    "name": "H2D eSUN PA12+CF Filament",
+    "nozzle_temperature": [
+        "280",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "280",
+        "nil"
+    ],
+    "version": "2.1.0.13"
+}

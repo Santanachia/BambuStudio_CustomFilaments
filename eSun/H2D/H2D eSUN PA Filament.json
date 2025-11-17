@@ -1,0 +1,43 @@
+{
+    "chamber_temperatures": [
+        "40"
+    ],
+    "eng_plate_temp": [
+        "80"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "80"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_settings_id": [
+        "H2D eSUN PA Filament"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Generic PA @BBL H2D",
+    "name": "H2D eSUN PA Filament",
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "textured_plate_temp": [
+        "90"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "90"
+    ],
+    "version": "2.1.0.13"
+}

@@ -1,0 +1,18 @@
+{
+    "fan_max_speed": [
+        "60"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "A1 eSUN PLA-Matte Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Matte @BBL A1",
+    "name": "A1 eSUN PLA-Matte Filament",
+    "version": "1.8.0.13"
+}

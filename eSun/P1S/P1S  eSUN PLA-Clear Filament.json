@@ -1,0 +1,27 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "23"
+    ],
+    "filament_settings_id": [
+        "P1S  eSUN PLA-Clear Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "P1S  eSUN PLA-Clear Filament",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "2.0.0.76"
+}

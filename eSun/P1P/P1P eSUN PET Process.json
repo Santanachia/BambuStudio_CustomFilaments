@@ -1,0 +1,26 @@
+{
+    "enable_prime_tower": "0",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL P1P",
+    "initial_layer_infill_speed": [
+        "50"
+    ],
+    "inner_wall_speed": [
+        "250"
+    ],
+    "name": "P1P eSUN PET Process",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "P1P eSUN PET Process",
+    "sparse_infill_speed": [
+        "250"
+    ],
+    "top_shell_layers": "3",
+    "top_shell_thickness": "0.6",
+    "tree_support_wall_count": "1",
+    "version": "1.6.0.3"
+}

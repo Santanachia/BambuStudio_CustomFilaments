@@ -1,0 +1,47 @@
+{
+    "bridge_speed": [
+        "100"
+    ],
+    "enable_overhang_speed": [
+        "0"
+    ],
+    "from": "User",
+    "gap_infill_speed": [
+        "100"
+    ],
+    "inherits": "0.20mm Standard @BBL P1P",
+    "initial_layer_infill_speed": [
+        "50"
+    ],
+    "inner_wall_speed": [
+        "100"
+    ],
+    "internal_solid_infill_speed": [
+        "100"
+    ],
+    "name": "P1P eSUN PLA-LW Process ",
+    "outer_wall_speed": [
+        "100"
+    ],
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "P1P eSUN PLA-LW Process ",
+    "reduce_crossing_wall": "1",
+    "sparse_infill_speed": [
+        "100"
+    ],
+    "top_shell_layers": "3",
+    "top_shell_thickness": "0.6",
+    "top_surface_speed": [
+        "100"
+    ],
+    "travel_speed": [
+        "100"
+    ],
+    "tree_support_wall_count": "1",
+    "version": "1.6.0.3"
+}

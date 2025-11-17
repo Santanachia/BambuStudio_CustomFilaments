@@ -1,0 +1,18 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "P1S eSUN PLA-marble Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "P1S eSUN PLA-marble Filament",
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "2.0.0.76"
+}

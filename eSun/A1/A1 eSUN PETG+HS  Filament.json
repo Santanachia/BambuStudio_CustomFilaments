@@ -1,0 +1,30 @@
+{
+    "fan_max_speed": [
+        "60"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_long_retractions_when_cut": [
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "A1 eSUN PETG+HS  Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG Basic @BBL A1",
+    "name": "A1 eSUN PETG+HS  Filament",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "version": "1.8.0.13"
+}

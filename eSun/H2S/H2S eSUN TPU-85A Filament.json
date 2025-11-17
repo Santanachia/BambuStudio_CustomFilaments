@@ -1,0 +1,39 @@
+{
+    "filament_deretraction_speed": [
+        "nil",
+        "nil"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_retraction_length": [
+        "nil",
+        "nil"
+    ],
+    "filament_retraction_speed": [
+        "nil",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2S eSUN TPU-85A Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu TPU 95A @BBL H2S",
+    "name": "H2S eSUN TPU-85A Filament",
+    "nozzle_temperature": [
+        "240",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240",
+        "nil"
+    ],
+    "textured_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "45"
+    ],
+    "version": "2.3.0.3"
+}

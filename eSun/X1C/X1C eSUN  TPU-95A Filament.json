@@ -1,0 +1,50 @@
+{
+    "compatible_printers": [
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.6 nozzle",
+        "Bambu Lab X1 Carbon 0.8 nozzle"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode \nM106 P3 S0\n"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "5"
+    ],
+    "filament_retraction_length": [
+        "nil"
+    ],
+    "filament_settings_id": [
+        "X1C eSUN TPU-95A Filament"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\n{if  (bed_temperature[current_extruder] >35)||(bed_temperature_initial_layer[current_extruder] >35)}M106 P3 S255\n{elsif(bed_temperature[current_extruder] >30)||(bed_temperature_initial_layer[current_extruder] >30)}M106 P3 S180\n{endif}"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "45"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "45"
+    ],
+    "inherits": "Bambu TPU 95A @BBL X1C",
+    "name": "X1C eSUN TPU-95A Filament",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "temperature_vitrification": [
+        "35"
+    ],
+    "textured_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "45"
+    ],
+    "version": "1.6.0.3"
+}

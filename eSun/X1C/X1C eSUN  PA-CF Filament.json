@@ -1,0 +1,62 @@
+{
+    "compatible_printers": [
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.6 nozzle",
+        "Bambu Lab X1 Carbon 0.8 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 0.6 nozzle",
+        "Bambu Lab X1 0.8 nozzle"
+    ],
+    "cool_plate_temp": [
+        "60"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "60"
+    ],
+    "eng_plate_temp": [
+        "80"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "80"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
+    "filament_settings_id": [
+        "X1C eSUN PA-CF Filament"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\n"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Bambu PA-CF @BBL X1C",
+    "name": "X1C eSUN PA-CF Filament",
+    "nozzle_temperature": [
+        "270"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "temperature_vitrification": [
+        "108"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "1.6.0.3"
+}

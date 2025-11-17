@@ -1,0 +1,25 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL A1M",
+    "initial_layer_infill_speed": [
+        "50"
+    ],
+    "inner_wall_speed": [
+        "250"
+    ],
+    "name": "A1 mini  eSUN PLA-Basic  Process",
+    "outer_wall_speed": [
+        "150"
+    ],
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "A1 mini  eSUN PLA-Basic  Process",
+    "sparse_infill_speed": [
+        "250"
+    ],
+    "version": "1.9.0.21"
+}

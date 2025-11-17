@@ -1,0 +1,53 @@
+{
+    "chamber_temperatures": [
+        "50"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "1",
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "22",
+        "nil"
+    ],
+    "filament_retraction_length": [
+        "nil",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2S eSUN ABS+HS Filament"
+    ],
+    "filament_wipe": [
+        "nil",
+        "nil"
+    ],
+    "filament_wipe_distance": [
+        "nil",
+        "nil"
+    ],
+    "filament_z_hop_types": [
+        "nil",
+        "nil"
+    ],
+    "from": "User",
+    "inherits": "Bambu ABS @BBL H2S",
+    "name": "H2S eSUN ABS+HS Filament",
+    "nozzle_temperature": [
+        "260",
+        "nil"
+    ],
+    "textured_plate_temp": [
+        "100"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "2.3.0.3"
+}

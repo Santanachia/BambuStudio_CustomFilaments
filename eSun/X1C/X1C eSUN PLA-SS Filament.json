@@ -1,0 +1,30 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_long_retractions_when_cut": [
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "X1C eSUN PLA-SS Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "name": "X1C eSUN PLA-SS Filament",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "1.9.0.21"
+}

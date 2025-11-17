@@ -1,0 +1,63 @@
+{
+    "compatible_printers": [
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.6 nozzle",
+        "Bambu Lab X1 0.6 nozzle"
+    ],
+    "cool_plate_temp": [
+        "100"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "100"
+    ],
+    "eng_plate_temp": [
+        "100"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "100"
+    ],
+    "fan_max_speed": [
+        "30"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode \nM106 P3 S0\n"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_max_volumetric_speed": [
+        "22"
+    ],
+    "filament_settings_id": [
+        "X1C eSUN ABS Filament"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\n"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Bambu ABS @BBL X1C",
+    "name": "X1C eSUN ABS Filament",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "textured_plate_temp": [
+        "100"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "1.6.0.3"
+}

@@ -1,0 +1,37 @@
+{
+    "fan_max_speed": [
+        "20"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_retraction_length": [
+        "nil",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "P2S eSUN ABS-GF Filament"
+    ],
+    "filament_z_hop_types": [
+        "nil",
+        "nil"
+    ],
+    "from": "User",
+    "inherits": "Bambu ABS @BBL P2S",
+    "name": "P2S eSUN ABS-GF Filament",
+    "nozzle_temperature": [
+        "260",
+        "nil"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "textured_plate_temp": [
+        "100"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "2.3.0.2"
+}

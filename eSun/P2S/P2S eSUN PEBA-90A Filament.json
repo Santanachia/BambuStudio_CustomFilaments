@@ -1,0 +1,27 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_max_volumetric_speed": [
+        "5",
+        "nil"
+    ],
+    "filament_retraction_length": [
+        "nil",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "P2S eSUN PEBA-90A Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU @BBL P2S",
+    "name": "P2S eSUN PEBA-90A Filament",
+    "textured_plate_temp": [
+        "70"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "70"
+    ],
+    "version": "2.3.0.3"
+}

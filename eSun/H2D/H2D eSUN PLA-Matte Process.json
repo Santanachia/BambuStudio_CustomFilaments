@@ -1,0 +1,38 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Balanced Strength @BBL H2D",
+    "initial_layer_infill_speed": [
+        "50",
+        "nil",
+        "nil",
+        "nil"
+    ],
+    "inner_wall_speed": [
+        "200",
+        "nil",
+        "nil",
+        "nil"
+    ],
+    "name": "H2D eSUN PLA-Matte Process",
+    "outer_wall_speed": [
+        "150",
+        "nil",
+        "nil",
+        "nil"
+    ],
+    "prime_tower_rib_wall": "0",
+    "print_extruder_id": [
+        "1",
+        "1",
+        "2",
+        "2"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "print_settings_id": "H2D eSUN PLA-Matte Process",
+    "version": "2.0.0.87"
+}

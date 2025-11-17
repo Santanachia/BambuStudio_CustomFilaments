@@ -1,0 +1,46 @@
+{
+    "compatible_printers": [
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle"
+    ],
+    "from": "User",
+    "gap_infill_speed": [
+        "100"
+    ],
+    "inherits": "0.08mm Extra Fine @BBL X1C",
+    "initial_layer_infill_speed": [
+        "50"
+    ],
+    "inner_wall_speed": [
+        "100"
+    ],
+    "internal_solid_infill_speed": [
+        "100"
+    ],
+    "max_bridge_length": "10",
+    "name": "X1 eSUN TPE-83A  Process ",
+    "outer_wall_speed": [
+        "80"
+    ],
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "X1 eSUN TPE-83A  Process ",
+    "sparse_infill_speed": [
+        "100"
+    ],
+    "support_bottom_z_distance": "0.2",
+    "support_top_z_distance": "0.2",
+    "support_type": "normal(auto)",
+    "top_surface_speed": [
+        "80"
+    ],
+    "travel_speed": [
+        "300"
+    ],
+    "tree_support_wall_count": "1",
+    "version": "1.6.0.3"
+}

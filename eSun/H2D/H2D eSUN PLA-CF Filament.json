@@ -1,0 +1,31 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_max_volumetric_speed": [
+        "18",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2D eSUN PLA-CF Filament"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA+ @BBL H2D",
+    "name": "H2D eSUN PLA-CF Filament",
+    "nozzle_temperature": [
+        "230",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230",
+        "nil"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "2.0.0.87"
+}

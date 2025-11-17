@@ -1,0 +1,18 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_long_retractions_when_cut": [
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "22"
+    ],
+    "filament_settings_id": [
+        "A1 eSUN PLA+HS Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL A1",
+    "name": "A1 eSUN PLA+HS Filament",
+    "version": "1.8.0.13"
+}

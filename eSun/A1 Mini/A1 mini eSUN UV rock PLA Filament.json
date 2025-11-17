@@ -1,0 +1,21 @@
+{
+    "fan_min_speed": [
+        "80"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_long_retractions_when_cut": [
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_settings_id": [
+        "A1 mini eSUN UV rock PLA Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL A1M",
+    "name": "A1 mini eSUN UV rock PLA Filament",
+    "version": "1.9.0.12"
+}

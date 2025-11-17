@@ -1,0 +1,31 @@
+{
+    "brim_type": "no_brim",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "initial_layer_infill_speed": [
+        "50"
+    ],
+    "inner_wall_speed": [
+        "200"
+    ],
+    "internal_solid_infill_speed": [
+        "200"
+    ],
+    "name": "P1S  eSUN PETG-ESD Process",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "P1S  eSUN PETG-ESD Process",
+    "sparse_infill_speed": [
+        "200"
+    ],
+    "support_interface_top_layers": "4",
+    "support_on_build_plate_only": "1",
+    "support_style": "tree_slim",
+    "support_threshold_angle": "25",
+    "version": "2.0.0.76"
+}

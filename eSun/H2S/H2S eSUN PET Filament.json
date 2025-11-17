@@ -1,0 +1,27 @@
+{
+    "fan_max_speed": [
+        "70"
+    ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.94",
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "16",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2S eSUN PET Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG Basic @BBL H2S",
+    "name": "H2S eSUN PET Filament",
+    "version": "2.3.0.3"
+}

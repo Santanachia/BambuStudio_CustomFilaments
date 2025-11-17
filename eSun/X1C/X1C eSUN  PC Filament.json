@@ -1,0 +1,21 @@
+{
+    "fan_max_speed": [
+        "20"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "X1C eSUN PC Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PC",
+    "name": "X1C eSUN PC Filament",
+    "nozzle_temperature": [
+        "290"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "290"
+    ],
+    "version": "2.0.0.76"
+}

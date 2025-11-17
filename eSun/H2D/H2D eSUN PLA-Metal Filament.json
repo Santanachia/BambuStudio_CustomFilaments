@@ -1,0 +1,19 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_settings_id": [
+        "H2D eSUN PLA-Metal Filament"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA+ @BBL H2D",
+    "name": "H2D eSUN PLA-Metal Filament",
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "2.0.0.87"
+}

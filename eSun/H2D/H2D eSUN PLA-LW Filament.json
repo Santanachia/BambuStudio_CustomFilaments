@@ -1,0 +1,44 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.55",
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "18",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2D eSUN PLA-LW Filament"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "45"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "45"
+    ],
+    "inherits": "eSUN PLA+ @BBL H2D",
+    "name": "H2D eSUN PLA-LW Filament",
+    "nozzle_temperature": [
+        "250",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250",
+        "nil"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "textured_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "45"
+    ],
+    "version": "2.0.0.87"
+}

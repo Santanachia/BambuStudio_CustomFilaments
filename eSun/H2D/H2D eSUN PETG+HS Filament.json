@@ -1,0 +1,31 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_max_volumetric_speed": [
+        "23",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2D eSUN PETG+HS Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL H2D",
+    "name": "H2D eSUN PETG+HS Filament",
+    "nozzle_temperature": [
+        "260",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260",
+        "nil"
+    ],
+    "supertack_plate_temp": [
+        "65"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "2.0.0.83"
+}

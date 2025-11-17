@@ -1,0 +1,21 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "P1S  eSUN PETG-Matte Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "name": "P1S  eSUN PETG-Matte Filament",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "version": "2.0.0.76"
+}

@@ -1,0 +1,21 @@
+{
+    "fan_max_speed": [
+        "50"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "P1S eSUN ABS+GF Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "P1S eSUN ABS+GF Filament",
+    "textured_plate_temp": [
+        "100"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "2.0.0.76"
+}

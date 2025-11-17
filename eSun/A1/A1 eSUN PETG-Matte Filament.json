@@ -1,0 +1,27 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "A1 eSUN PETG-Matte Filament"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "Generic PETG @BBL A1",
+    "name": "A1 eSUN PETG-Matte Filament",
+    "textured_plate_temp": [
+        "70"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "70"
+    ],
+    "version": "2.0.0.76"
+}

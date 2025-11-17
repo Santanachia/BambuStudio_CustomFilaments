@@ -1,0 +1,31 @@
+{
+    "fan_max_speed": [
+        "20"
+    ],
+    "fan_min_speed": [
+        "10"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.96",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2S eSUN PA12+CF Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PA @BBL H2S 0.4 nozzle",
+    "name": "H2S eSUN PA12+CF Filament",
+    "nozzle_temperature": [
+        "280",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "280",
+        "nil"
+    ],
+    "version": "2.3.0.3"
+}

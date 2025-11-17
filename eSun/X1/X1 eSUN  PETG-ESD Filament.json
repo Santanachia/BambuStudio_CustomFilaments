@@ -1,0 +1,21 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "X1 eSUN  PETG-ESD Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG Basic @BBL X1C",
+    "name": "X1 eSUN  PETG-ESD Filament",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "version": "2.1.0.18"
+}

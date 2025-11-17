@@ -1,0 +1,27 @@
+{
+    "fan_min_speed": [
+        "80"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "A1 mini  eSUN ePLA-SS Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL A1M",
+    "name": "A1 mini  eSUN ePLA-SS Filament",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.9.0.21"
+}

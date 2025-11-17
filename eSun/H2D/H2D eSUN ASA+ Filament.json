@@ -1,0 +1,24 @@
+{
+    "chamber_temperatures": [
+        "50"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "1.02",
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "16",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2D eSUN ASA+ Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic ASA @BBL H2D",
+    "name": "H2D eSUN ASA+ Filament",
+    "version": "2.1.0.18"
+}

@@ -1,0 +1,35 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL P2S",
+    "initial_layer_infill_speed": [
+        "50",
+        "nil"
+    ],
+    "inner_wall_speed": [
+        "200",
+        "nil"
+    ],
+    "internal_solid_infill_speed": [
+        "200",
+        "nil"
+    ],
+    "name": "P2S eSUN PETG Process",
+    "outer_wall_speed": [
+        "150",
+        "nil"
+    ],
+    "print_extruder_id": [
+        "1",
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "print_settings_id": "P2S eSUN PETG Process",
+    "sparse_infill_speed": [
+        "200",
+        "nil"
+    ],
+    "version": "2.3.0.2"
+}

@@ -1,0 +1,40 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL P2S",
+    "initial_layer_infill_speed": [
+        "50",
+        "nil"
+    ],
+    "inner_wall_speed": [
+        "200",
+        "nil"
+    ],
+    "internal_solid_infill_speed": [
+        "200",
+        "nil"
+    ],
+    "name": "P2S eSUN PETG-Matte Process",
+    "outer_wall_speed": [
+        "150",
+        "nil"
+    ],
+    "prime_tower_infill_gap": "100%",
+    "prime_tower_rib_wall": "0",
+    "print_extruder_id": [
+        "1",
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "print_settings_id": "P2S eSUN PETG-Matte Process",
+    "sparse_infill_density": "25%",
+    "sparse_infill_speed": [
+        "200",
+        "nil"
+    ],
+    "support_type": "normal(manual)",
+    "version": "2.3.0.2"
+}

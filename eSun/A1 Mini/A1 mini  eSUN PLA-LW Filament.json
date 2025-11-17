@@ -1,0 +1,42 @@
+{
+    "fan_min_speed": [
+        "80"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.55"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_settings_id": [
+        "A1 mini  eSUN PLA-LW Filament"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "45"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "45"
+    ],
+    "inherits": "eSUN PLA+ @BBL A1M",
+    "name": "A1 mini  eSUN PLA-LW Filament",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "textured_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "45"
+    ],
+    "version": "1.7.0.29"
+}

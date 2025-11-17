@@ -1,0 +1,39 @@
+{
+    "eng_plate_temp": [
+        "90"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "90"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "X1 eSUN  PA Filament"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "90"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "90"
+    ],
+    "inherits": "Generic PA",
+    "name": "X1 eSUN  PA Filament",
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "textured_plate_temp": [
+        "90"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "90"
+    ],
+    "version": "2.0.0.76"
+}

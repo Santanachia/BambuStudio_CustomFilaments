@@ -1,0 +1,18 @@
+{
+    "fan_min_speed": [
+        "80"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "A1 mini eSUN  PLA-Magic CL Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL A1M",
+    "name": "A1 mini eSUN  PLA-Magic CL Filament",
+    "version": "1.9.0.21"
+}

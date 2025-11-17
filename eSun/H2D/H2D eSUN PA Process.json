@@ -1,0 +1,41 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Balanced Strength @BBL H2D",
+    "interlocking_beam_layer_count": "1",
+    "interlocking_boundary_avoidance": "1",
+    "interlocking_depth": "1",
+    "internal_solid_infill_speed": [
+        "150",
+        "nil",
+        "nil",
+        "nil"
+    ],
+    "name": "H2D eSUN PA Process",
+    "outer_wall_speed": [
+        "120",
+        "nil",
+        "nil",
+        "nil"
+    ],
+    "print_extruder_id": [
+        "1",
+        "1",
+        "2",
+        "2"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "print_settings_id": "H2D eSUN PA Process",
+    "sparse_infill_pattern": "gyroid",
+    "sparse_infill_speed": [
+        "150",
+        "nil",
+        "nil",
+        "nil"
+    ],
+    "version": "2.0.0.83"
+}

@@ -1,0 +1,30 @@
+{
+    "chamber_temperatures": [
+        "50"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.98",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2S eSUN ABS Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu ABS @BBL H2S",
+    "name": "H2S eSUN ABS Filament",
+    "nozzle_temperature": [
+        "260",
+        "nil"
+    ],
+    "textured_plate_temp": [
+        "100"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "2.3.0.3"
+}

@@ -1,0 +1,39 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.5"
+    ],
+    "filament_long_retractions_when_cut": [
+        "nil"
+    ],
+    "filament_settings_id": [
+        "P1S eSUN PLA-LW Filament"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "45"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "45"
+    ],
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "name": "P1S eSUN PLA-LW Filament",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "textured_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "45"
+    ],
+    "version": "2.1.0.18"
+}

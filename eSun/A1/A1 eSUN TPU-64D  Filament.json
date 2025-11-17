@@ -1,0 +1,24 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "8"
+    ],
+    "filament_retraction_length": [
+        "nil"
+    ],
+    "filament_settings_id": [
+        "A1 eSUN TPU-64D  Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu TPU 95A @BBL A1",
+    "name": "A1 eSUN TPU-64D  Filament",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "version": "1.8.0.13"
+}

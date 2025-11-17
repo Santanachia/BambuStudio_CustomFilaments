@@ -1,0 +1,30 @@
+{
+    "fan_min_speed": [
+        "80"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "A1 mini  eSUN PLA-silk Filament"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Silk @BBL A1M",
+    "name": "A1 mini  eSUN PLA-silk Filament",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "1.8.0.13"
+}

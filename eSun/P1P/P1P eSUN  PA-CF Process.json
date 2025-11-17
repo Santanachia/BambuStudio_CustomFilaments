@@ -1,0 +1,31 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL P1P",
+    "initial_layer_infill_speed": [
+        "50"
+    ],
+    "inner_wall_speed": [
+        "150"
+    ],
+    "internal_solid_infill_speed": [
+        "150"
+    ],
+    "name": "P1P eSUN  PA-CF Process",
+    "outer_wall_speed": [
+        "150"
+    ],
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "P1P eSUN  PA-CF Process",
+    "sparse_infill_speed": [
+        "150"
+    ],
+    "top_surface_speed": [
+        "150"
+    ],
+    "version": "1.9.0.21"
+}

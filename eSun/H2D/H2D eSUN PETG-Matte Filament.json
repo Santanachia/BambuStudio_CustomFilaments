@@ -1,0 +1,41 @@
+{
+    "eng_plate_temp": [
+        "65"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "65"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_max_volumetric_speed": [
+        "16",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "H2D eSUN PETG-Matte Filament"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Generic PETG @BBL H2D",
+    "name": "H2D eSUN PETG-Matte Filament",
+    "supertack_plate_temp": [
+        "65"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "65"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "2.0.0.83"
+}

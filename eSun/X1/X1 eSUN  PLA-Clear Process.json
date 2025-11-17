@@ -1,0 +1,31 @@
+{
+    "compatible_printers": [
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle"
+    ],
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "initial_layer_infill_speed": [
+        "50"
+    ],
+    "inner_wall_speed": [
+        "250"
+    ],
+    "max_bridge_length": "10",
+    "name": "X1 eSUN  PLA-Clear Process",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "X1 eSUN  PLA-Clear Process",
+    "sparse_infill_speed": [
+        "250"
+    ],
+    "support_type": "normal(auto)",
+    "top_shell_layers": "3",
+    "top_shell_thickness": "0.6",
+    "tree_support_wall_count": "1",
+    "version": "1.6.0.3"
+}

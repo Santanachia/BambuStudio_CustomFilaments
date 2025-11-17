@@ -1,0 +1,28 @@
+{
+    "fan_max_speed": [
+        "20"
+    ],
+    "fan_min_speed": [
+        "10"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_settings_id": [
+        "H2S eSUN PA12 Filament"
+    ],
+    "from": "User",
+    "inherits": "Generic PA @BBL H2S 0.4 nozzle",
+    "name": "H2S eSUN PA12 Filament",
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "textured_plate_temp": [
+        "90"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "90"
+    ],
+    "version": "2.3.0.3"
+}
